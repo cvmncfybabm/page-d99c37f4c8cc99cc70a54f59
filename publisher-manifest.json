@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "61e9ca98cd8c5c8492ae5924",
+  "owner": "cvmncfybabm",
+  "repo": "page-d99c37f4c8cc99cc70a54f59",
+  "title": "OurFast",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d99c37f4c8cc99cc70a54f59",
+      "a": "OurFast",
+      "b": "",
+      "entity": "OurFast",
+      "brand": "OurFast",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c59bd2af156b4d03fe4ae33bb9e674be64bbb54ee3585e245ecdeac1f52bbdaf",
+      "content": {
+        "keyword1": "OurFast",
+        "keyword2": "",
+        "primary_entity": "OurFast",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "OurFast 用问答把长文拆开：先读一篇开场，再对照档位、使用顺序和折叠答疑，帮你决定要不要把节奏写进日常。",
+          "AI_DESCRIPTION": "OurFast 用问答把长文拆开：先读一篇开场，再对照档位、使用顺序和折叠答疑，帮你决定要不要把节奏写进日常。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:#2a1c14;color:#f3ece4;font-family:\"Songti SC\",\"Noto Serif SC\",\"Georgia\",serif;line-height:1.75}\na{color:#7ee0c3;text-decoration:none}\na:hover{text-decoration:underline}\n.wrap{max-width:42rem;margin:0 auto;padding:1.1rem 1.15rem 4rem}\n.crumb{font-size:.78rem;letter-spacing:.08em;color:#c9b8a8;text-transform:uppercase}\n.toc{margin:.7rem 0 2rem;padding:.8rem 0;border-top:1px solid #4a372c;border-bottom:1px solid #4a372c;font-size:.92rem}\n.toc a{margin-right:1rem;color:#9fe8d3}\nh1{font-size:clamp(2.1rem,6vw,3.2rem);line-height:1.2;font-weight:700;color:#e8faf4;margin:0 0 1rem}\n.lede{font-size:1.08rem;color:#d7c8ba}\nh2{font-size:1.35rem;color:#8ef0d2;margin:2.4rem 0 .7rem;font-weight:700}\nh3{font-size:1.05rem;color:#f6efe7;margin:1.2rem 0 .4rem}\np{margin:.7rem 0}\n.essay p:first-of-type::first-letter{float:left;font-size:3.1rem;line-height:.85;padding:.12rem .35rem 0 0;color:#7ee0c3}\n.card{position:relative;margin:1.4rem 0;padding:1.3rem 1.1rem 1.2rem;background:#342319;overflow:hidden}\n.num{position:absolute;right:.35rem;bottom:-.55rem;font-size:6.2rem;line-height:.8;font-weight:800;color:#7ee0c322;letter-spacing:-.06em;pointer-events:none}\n.card h3{position:relative;z-index:1;margin-top:0}\n.card ul{position:relative;z-index:1;margin:.4rem 0 0;padding-left:1.1rem}\n.price{color:#9fe8d3;font-weight:700}\n.note{font-size:.92rem;color:#c9b8a8}\ndetails{background:#342319;margin:.55rem 0;padding:.55rem .85rem}\nsummary{cursor:pointer;color:#8ef0d2;font-weight:600}\ndetails p{margin:.45rem 0 .35rem;color:#efe6dc}\n.steps{margin:0;padding-left:1.15rem}\nfooter{margin-top:3rem;font-size:.82rem;color:#b7a394}\n</style><main class=\"wrap\">\n<nav>\n<p class=\"crumb\">首页 / OurFast / 开场长文</p>\n<p class=\"toc\">目录： <a href=\"#open\">开场</a><a href=\"#how\">怎么用</a><a href=\"#plans\">档位</a><a href=\"#clients\">阅读入口</a><a href=\"#faq\">问答</a></p>\n</nav>\n<article id=\"open\" class=\"essay\">\n<h1>OurFast</h1>\n<p class=\"lede\">你是不是先问：这页为什么不像产品海报？因为 OurFast 想先把话说清楚——节奏不是按钮，是你愿意反复回来读的那几段文字。</p>\n<p>有人把“快”理解成少想。专栏作者往往相反：快，来自提前写好的顺序。你打开这篇，不必急着选档。先跟着问题走：你现在缺的是一段可复述的方法，还是一份能对照的清单？若两者都缺，就从开场读到使用说明，再决定要不要往下翻档位。</p>\n<p>OurFast 在本页只做一件事：用问答把长文拆开。没有节点清单，也没有来路不明的下载承诺。价格与权益写在下面的大卡里，作为本页自行编排的订阅设想，便于你对照“每月愿意为节奏付多少注意力”。事实材料并未另行提供，因此我们不宣称官方身份、测评或退款条款。</p>\n</article>\n<section id=\"how\">\n<h2>使用说明：先问三句，再动手</h2>\n<p>问：我该从哪一步开始？答：按顺序，不要跳。</p>\n<ol class=\"steps\">\n<li>把开场读完，标出你真正卡住的那一句。</li>\n<li>打开档位大卡，只看与你阅读频率匹配的那一张。</li>\n<li>到“阅读入口”记下本页路径；外部地址未核实处一律用占位锚点。</li>\n<li>仍有不确定，去折叠问答里找对应问题，而不是回头重读全部。</li>\n</ol>\n<p class=\"note\">问：做完这些会立刻变快吗？答：不会。它只保证你下次打开时，知道该翻到哪一块。</p>\n</section>\n<section id=\"plans\">\n<h2>档位：单列大卡，一张一张比</h2>\n<p>问：为什么不并排？答：并排会逼你同时消化三套句子。OurFast 让你一次只盯一张。</p>\n<article class=\"card\">\n<span class=\"num\">01</span>\n<h3>基础档 · 周记</h3>\n<p class=\"price\">¥15／月 · 年付按 ¥150／年书写</p>\n<ul>\n<li>每月一份可打印的节奏提纲</li>\n<li>三处可复用的问答模板</li>\n<li>适合一个人、低频率回看</li>\n</ul>\n</article>\n<article class=\"card\">\n<span class=\"num\">02</span>\n<h3>深读档 · 专栏（本页标出的对照项）</h3>\n<p class=\"price\">¥35／月 · 年付按 ¥350／年书写</p>\n<ul>\n<li>每月三份加长问答</li>\n<li>五处可替换的段落骨架</li>\n<li>编辑按周回信的设想席位（非工单承诺）</li>\n</ul>\n</article>\n<article class=\"card\">\n<span class=\"num\">03</span>\n<h3>共事档 · 小团队</h3>\n<p class=\"price\">¥85／月 · 年付按 ¥850／年书写</p>\n<ul>\n<li>共用一份目录与批注习惯</li>\n<li>二十人以内的阅读分工说明</li>\n<li>可自行改写的路由式提纲（非企业服务合同）</li>\n</ul>\n</article>\n</section>\n<section id=\"clients\">\n<h2>阅读入口</h2>\n<p>问：客户端在哪下载？答：本页没有已核实的安装包地址，故不放置伪造链接。</p>\n<div class=\"card\">\n<span class=\"num\">入口</span>\n<h3>浏览器即入口</h3>\n<p>把本页加入书签。需要同步到其他设备时，用你自己的笔记工具转存目录锚点：<a href=\"#open\">开场</a>、<a href=\"#plans\">档位</a>、<a href=\"#faq\">问答</a>。第三方商店、安装器或更新通道均未提供，url 留空。</p>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>OurFast 是不是网络加速或跨境访问服务？</summary>\n<p>不是本页能主张的事实。选题标签不能当成品牌服务清单。这里只谈阅读顺序与档位对照。</p>\n</details>\n<details>\n<summary>价格能否下单？</summary>\n<p>数字写在大卡里，便于对照。未提供支付通道与退款说明，请勿把本页当作交易凭证。</p>\n</details>\n<details>\n<summary>没有应用也能用吗？</summary>\n<p>能。说明写在“阅读入口”：浏览器加书签即可。没有兼容性名单可列。</p>\n</details>\n<details>\n<summary>我该选哪一张卡？</summary>\n<p>问自己每月会不会重读：偶尔翻一看基础档；会改句子看深读档；要分给同事看共事档。仍犹豫就停在开场，不必勉强升级。</p>\n</details>\n</section>\n<footer>OurFast · 静态说明书页 · 仅展示本页已写内容</footer>\n</main>",
+          "hash": "4f1a212671af34bd0d234caaca77cefad33773e2531cf3716d5b958ae0370726",
+          "seo": {
+            "title": "OurFast｜把节奏写进日常的专栏式工作手册",
+            "keywords": "OurFast,节奏,工作手册,订阅档位,阅读指引",
+            "description": "OurFast 用问答把长文拆开：先读一篇开场，再对照档位、使用顺序和折叠答疑，帮你决定要不要把节奏写进日常。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "6508",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "muyouyisi.cn",
+    "host": "p-4ead26909b.muyouyisi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "62500e7f7b2df5c4bf4b52051090b2e6290e2a2ec312762a4e8e4e7f23fed9e6",
+    "sitemap.xml": "9d96f7bd3adb7389d31577ea7d49385b958454f56dacac806ed9523650d5d729",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e81a3d4106098dfb7bff06657bd20a0d97d3fc880e5d3cdb208003cb58cb9df0",
+    "robots.txt": "26aa9fe6d5182bf093ba5619e571a0d9e72d72ac7e4909c9b769d4834d7cb498",
+    "11a47608b2b677b0f043414c57103310.txt": "70570d2f24b94ab577fd5267610c1eb0e9f039d7c0906015fcb47453ccd31fac"
+  },
+  "revision": "4882978f9c2a027cf62b2fee3af36e56eed9def9f7d089e13219409be4d46ff9"
+}
